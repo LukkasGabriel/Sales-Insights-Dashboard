@@ -2,6 +2,12 @@
 The Sales Insights Dashboard provides a detailed view of sales by region, product, and channel. With filters for Year and Category, it displays key data such as total sales, revenue, profit, and costs. It highlights profitable regions, top-selling products, and high-performing channels for strategic decision-making.
 
 
+
+
+https://github.com/user-attachments/assets/49aff966-7248-418c-88ef-57399e183da4
+
+
+
 # Sales Insights Dashboard
 
 ## Description
