@@ -1,5 +1,5 @@
 # Sales-Insights-Dashboard
-The Sales Insights Dashboard provides a detailed view of sales by region, product, and channel. With filters for Year and Category, it displays key data such as total sales, revenue, profit, and costs. It highlights profitable regions, top-selling products, and high-performing channels for strategic decision-making.
+The Sales Insights Dashboard is a powerful tool built entirely in Excel, offering a comprehensive view of sales data across regions, products, and channels. With dynamic filters for Year and Category, it provides key metrics like total sales, revenue, profit, and costs. The dashboard is designed to easily highlight profitable regions, top-selling products, and high-performing sales channels, enabling data-driven decision-making for your business strategy.
 
 
 
